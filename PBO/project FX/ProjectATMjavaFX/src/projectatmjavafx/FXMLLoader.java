@@ -5,10 +5,21 @@
  */
 package projectatmjavafx;
 
+import java.net.URL;
+import javafx.scene.Parent;
+
 /**
  *
  * @author Meytha Bethany
  */
 class FXMLLoader {
+
+    void setLocation(URL resource) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    Parent load() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
     
 }
